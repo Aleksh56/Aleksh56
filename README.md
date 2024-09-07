@@ -12,7 +12,7 @@
 </p>
 
 ### About me
-- 🌱 Currently learning more about React FSD Architecture and best-practices
+- 🌱 Currently learning Next.js and diving deeper into React FSD architecture and best practices
 - 😊 Enthusiastic about clean code and innovative solutions
 - 💼 Experienced in full-stack development, with a focus on Frontend
 - 📚 Avid reader and lifelong learner
@@ -28,5 +28,6 @@
   <img src="https://img.icons8.com/color/48/000000/npm.png" width="48" height="48" alt="npm" title="npm" />
   <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="48" height="48" alt="MySQL" title="MySQL" />
   <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" title="Vite" />
+  <img src="https://effector.dev/img/comet.svg" width="48" height="48" alt="Effector" title="Effector" />
 </p>
 
